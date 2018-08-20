@@ -1,4 +1,4 @@
-# GSoC-2018-Proposal-Oppia
+# GSoC 2018 Proposal for Oppia
 This repo contains my following GSoC' 18 related work:
 * GSoC' 18 proposal to Oppia foundation for '<b>New Interactions</b>' project.
 * Presentation used in the Lightning talks session where I described my GSoC work.
